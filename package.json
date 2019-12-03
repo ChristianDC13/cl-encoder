@@ -1,0 +1,19 @@
+{
+  "name": "cl-encoder",
+  "version": "1.0.2",
+  "description": "CL-Encoder es una librería open source con la que se pueden cifrar y descifrar cadenas de texto desde una aplicación con tecnologías basadas en JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevCriss/cl-encoder.git"
+  },
+  "author": "Christian De La Cruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevCriss/cl-encoder/issues"
+  },
+  "homepage": "https://github.com/DevCriss/cl-encoder#readme"
+}
